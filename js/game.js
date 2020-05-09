@@ -215,7 +215,7 @@ function update() {
           fill: "green",
         });
         console.log("calling");
-        window.open("./index2.html", "_self");
+        window.open("./ball-into-running-basket-level2", "_self");
       }
     } else {
       if (current_score > high_score) {
